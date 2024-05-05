@@ -11,6 +11,11 @@ public class App {
         System.out.println("이제 머지를 해보겠다");
 =======
         System.out.println("새로운 버전을 배포합니다");
+<<<<<<< HEAD
+>>>>>>> feature
+=======
+
+        System.out.println("핫픽스 버전 내놓습니다");
 >>>>>>> feature
     }
 }
