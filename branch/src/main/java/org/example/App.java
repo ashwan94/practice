@@ -6,6 +6,7 @@ package org.example;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     }
 =======
@@ -18,4 +19,7 @@ public class App {
     }
 >>>>>>> develop
 >>>>>>> Stashed changes
+=======
+    }
+>>>>>>> develop
 }
